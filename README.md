@@ -62,7 +62,7 @@ console output of RFQ from Eng. Omar.
 ### Sample Sheet + Drive Folder: 
 google_sheet.csv simulates the Google Sheet storing RFQ details, and data/drive/attachments/ contains archived attachments like specs.pdf.
 
-![Google Sheet & Drive](Screenshots/sheet_and_spec_drive.png)
+![Google Sheet & Drive](Screenshots/sheet_and_spec_drive_pdf.png)
 
 
 
