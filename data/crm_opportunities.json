@@ -1,3 +1,10 @@
 [
-  
+  {
+    "id": "OPP-1767554384",
+    "client": "Eng. Omar",
+    "product": "ALR-SL-90W",
+    "quantity": 120,
+    "city": "Dammam",
+    "status": "New RFQ"
+  }
 ]
