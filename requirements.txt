@@ -1,0 +1,10 @@
+# Optional: Google Sheets API integration
+gspread
+oauth2client
+
+# Optional: Sending emails or notifications
+requests
+
+# Optional: For better CSV/Excel handling if needed
+pandas
+openpyxl
