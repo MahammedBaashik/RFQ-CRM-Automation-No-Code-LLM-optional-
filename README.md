@@ -13,6 +13,9 @@ Overall, this automation helps the sales team respond faster, avoid missing deta
 To automatically read incoming RFQ emails, extract structured information, store it in a CRM-like system and Google Sheet–style CSV, generate bilingual auto-replies (English & Arabic), and notify internal teams.
 
 ---
+## Flowchart
+![Diagram](Screenshots/flow_1.png)
+
 
 ## Data Set Story
 The system uses mock data sources to simulate real-world workflows:
